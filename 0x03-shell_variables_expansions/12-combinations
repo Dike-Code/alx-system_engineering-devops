@@ -1,2 +1,2 @@
-$!/bin/bash
+#!/bin/bash
 echo {a..z}{z..a} | tr '''\n' | greo -v 'oo'
