@@ -2,4 +2,3 @@
 Host *
       PasswordAuthentication no
       IdentifyFile ~/.ssh/school
-      ssh-copy-id ubuntu@100.26.49.67
